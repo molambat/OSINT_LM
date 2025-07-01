@@ -18,6 +18,11 @@ But : avoir une fiche vendable immédiatement sur Reddit, Discord, Fiverr, etc.
         Vérification des réseaux sociaux, abonnés, activité
 
         Rapport PDF clair avec mes conclusions, preuves, recommandations
+        
+    🎁 Bonus différenciant (facultatif mais original)
+    📁 Version “rapport print-friendly” (PDF sans capture) pour avocat ou RH
+    📂 Export compressé du rapport + preuves (.zip) avec structure propre
+    🔐 Option : “Rapport privé auto-détruit” → lien expirable avec password
 
     🧾 Livraison : fichier PDF ou Markdown + annexes
     📍 Discrétion, anonymat, 100 % légal
