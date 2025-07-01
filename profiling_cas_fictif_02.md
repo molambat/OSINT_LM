@@ -8,32 +8,35 @@ Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de f
 ---
 
 ## 1. Informations reçues
-- Message reçu : `"Did you see @its.hazeldee? The hottest model I've seen out there.. ✨ To be honest, I think you got all your chances!"`
+
+**Message reçu :**  
+`"Did you see @its.hazeldee? The hottest model I've seen out there.. ✨ To be honest, I think you got all your chances!"`
 
 ---
 
 ## 2. Recherche des profils
 
-### 🔹 @hannah.guy_ig
-- Public, 400 followers / 800 suivis
-- Dernier post : 206 semaines
-- Activité récente uniquement en MP
-- Follows : 80% de comptes masculins
-- Bio : absente ou sans lien
-- **Hypothèse** : compte dormant utilisé uniquement pour du DM automatisé
+### 🔹 `@hannah.guy_ig`
+- Compte public
+- 400 abonnés / 800 suivis (principalement des hommes)
+- Dernier post visible : il y a 206 semaines (~4 ans)
+- Activité récente via messages privés uniquement
+- Bio : absente ou vide
 
-### 🔹 @its.hazeldee
-- 35 000 followers
-- Dernier post : 27 semaines
-- Suit uniquement des femmes
-- Follow presque uniquement masculins
-- Bio avec lien OnlyFans
+**→ Hypothèse :** Compte dormant utilisé uniquement pour du DM automatisé
 
-### 🔹 @its_hazeldee
-- Profil secondaire : mêmes photos, ton, contenu
-- Aussi relié à OnlyFans : Lien en bio
-- Présente les mêmes patterns de followers/suivi
-- 8000 followers
+### 🔹 `@its.hazeldee`
+- 35 000 abonnés, 282 suivis (exclusivement féminins)
+- Dernier post : 27 semaines (~6 mois)
+- Présence d’un lien OnlyFans en bio
+- Forte présence masculine parmi les followers
+- Aucun contenu interactif : peu de réponses, pas de stories récentes
+
+### 🔹 `@its_hazeldee`
+- Variante secondaire : mêmes photos, même nom
+- 8 000 abonnés
+- Lien identique vers OnlyFans
+- Structure de followers très similaire
 
 ---
 
@@ -53,27 +56,33 @@ Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de f
 
 ## 5. Analyse
 
-- Compte principal OnlyFans promu via **au moins 3 identités différentes**
-- Deux comptes Instagram distincts redirigent vers le même lien
-- Un compte inactif depuis 206 semaines est **toujours utilisé comme bot**
-- L’ensemble forme une **structure typique de redirection marketing semi-automatisée**
-  - Fort potentiel d’automatisation via script
-  - Stratégie d’attirer des hommes avec anciens profils féminins
+- Le compte `@hannah.guy_ig`, inactif en public depuis plus de 200 semaines, est utilisé comme **appât DM**
+- `@its.hazeldee` et `@its_hazeldee` présentent :
+  - Les **mêmes visuels**
+  - Une **même cible d’audience (masculine)**
+  - Une redirection unique vers un **compte commercial OnlyFans**
+
+**→ Il est hautement probable que l’ensemble forme un réseau semi-automatisé de promotion** basé sur :
+- des anciens comptes recyclés
+- des variantes de profils féminins attractifs
+- un modèle d’entonnoir : DM → double profil → contenu payant
 
 ---
 
 ## 6. Conclusion
 
-Il est **hautement probable** que le compte @hannah.guy_ig soit un **profil inactif recyclé** dans une campagne de promotion agressive vers un compte OnlyFans (hazel_dee). Les deux comptes secondaires (@its.hazeldee et @its_hazeldee) servent de “pivots” pour capter l'audiences.
+L’ensemble des éléments indique que `@hannah.guy_ig` est utilisé dans une **stratégie de marketing agressif ou de spam social**, servant à générer du trafic vers un compte OnlyFans bien réel (`hazel_dee`).
+
+Il n’y a pas d’éléments confirmant une arnaque financière directe, mais **la tactique d’approche automatisée et multi-profils suggère un réseau scripté**, potentiellement associé à d’autres comptes similaires.
 
 ---
 
 ## 7. Recommandations
 
-- **Ne pas interagir avec ces comptes**
-- Signaler à Instagram pour “spam” ou “usurpation”
-- Si la personne derrière le message vous cible à nouveau, bloquer tous les comptes
-- Ce cas peut être documenté comme exemple de **structure OSINT de redirection sociale**
+- 🚫 Ne pas interagir avec ces comptes
+- 🚩 Signaler à Instagram comme spam / redirection frauduleuse
+- ✅ Bloquer les comptes si d'autres messages sont reçus
+- 🧾 Documenter le cas comme exemple OSINT de “profil passif recyclé”
 
 ---
 
