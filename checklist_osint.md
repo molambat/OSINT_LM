@@ -1,6 +1,6 @@
 # ✅ Checklist OSINT - Profiling d'identité numérique
 
-Cette checklist t'aide à structurer une enquête OSINT complète sur une personne ou une entité, à partir d'un nom, pseudo, photo ou adresse e-mail.
+Cette checklist aide à structurer mon enquête OSINT complète sur une personne ou une entité, à partir d'un nom, pseudo, photo ou adresse e-mail.
 
 ---
 
