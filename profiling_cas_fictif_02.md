@@ -39,8 +39,8 @@ Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de f
 
 ## 3. Plateforme cible
 **OnlyFans : `hazel_dee`**
-- Compte actif
-- Profil promu depuis les deux comptes Instagram
+- Compte actif et mis à jour en temps réel (profil en ligne au moment de l’analyse)
+- Lien présent sur les deux profils Instagram mentionnés
 
 ---
 
@@ -82,3 +82,10 @@ Il est **hautement probable** que le compte @hannah.guy_ig soit un **profil inac
 - https://www.instagram.com/its.hazeldee/
 - https://www.instagram.com/its_hazeldee/
 - https://onlyfans.com/hazel_dee
+
+---
+## ⚖️ Clause de responsabilité
+
+> Ce rapport est basé uniquement sur l’analyse de données accessibles publiquement à la date de l’enquête.  
+> Aucune interaction directe avec les comptes, aucune intrusion ni manipulation n’ont été effectuées.  
+> Ce document est fourni à des fins informatives et ne constitue pas une preuve légale en soi.
