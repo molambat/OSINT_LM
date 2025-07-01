@@ -2,7 +2,7 @@
 
 ## 📅 Date : 30/06/2025
 
-## 🧠 Objet :
+## 🔍 Contexte de la demande :
 Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de faire partie d’un réseau de faux profils utilisés pour promouvoir un compte OnlyFans.
 
 ---
@@ -54,7 +54,7 @@ Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de f
 ---![hazel_dee](https://github.com/user-attachments/assets/227b20cd-c2e6-46ce-8bc5-182e4b6a308e)
 
 
-## 5. Analyse
+## 5. 🧑‍💻 Analyse du compte Instagram
 
 - Le compte `@hannah.guy_ig`, inactif en public depuis plus de 200 semaines, est utilisé comme **appât DM**
 - `@its.hazeldee` et `@its_hazeldee` présentent :
@@ -69,7 +69,7 @@ Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de f
 
 ---
 
-## 6. Conclusion
+## 6. 📝Conclusion
 
 L’ensemble des éléments indique que `@hannah.guy_ig` est utilisé dans une **stratégie de marketing agressif ou de spam social**, servant à générer du trafic vers un compte OnlyFans bien réel (`hazel_dee`).
 
@@ -77,7 +77,7 @@ Il n’y a pas d’éléments confirmant une arnaque financière directe, mais *
 
 ---
 
-## 7. Recommandations
+## 7. ⚖️ Recommandations
 
 - 🚫 Ne pas interagir avec ces comptes
 - 🚩 Signaler à Instagram comme spam / redirection frauduleuse
@@ -86,14 +86,14 @@ Il n’y a pas d’éléments confirmant une arnaque financière directe, mais *
 
 ---
 
-## Annexes
+## 📁 Annexes 
 - https://www.instagram.com/hannah.guy_ig/
 - https://www.instagram.com/its.hazeldee/
 - https://www.instagram.com/its_hazeldee/
 - https://onlyfans.com/hazel_dee
 
 ---
-## ⚖️ Clause de responsabilité
+## ⚠️ Disclaimer légal
 
 > Ce rapport est basé uniquement sur l’analyse de données accessibles publiquement à la date de l’enquête.  
 > Aucune interaction directe avec les comptes, aucune intrusion ni manipulation n’ont été effectuées.  
