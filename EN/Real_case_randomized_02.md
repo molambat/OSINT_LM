@@ -2,7 +2,7 @@
 
 **Digital Identity Analysis & Verification**  
 **Date of Report**: 07/25/2025  
-**Prepared by**: MimeticZero, Freelance OSINT Analyst  
+**Prepared by**: M. Lambat, Freelance OSINT Analyst  
 **Confidential**: Strictly Confidential – For Client Use Only  
 
 > **Disclaimer**:  
