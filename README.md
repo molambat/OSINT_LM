@@ -18,11 +18,12 @@ Build a solid foundation to:
 
 | Repo EN – File Name                               | Case Title                                               
 |---------------------------------------------------|-----------------------------------------------------------
-| [Real_case_randomized_01.md](EN/Real_case_randomized_01.md) | Locating a Personal Contact in the United States          
-| [profiling_case_01.md](EN/profiling_case_01.md)   | Locating a Personal Contact in the United States          
-| [profiling_case_02.md](EN/profiling_case_02.md)   | OSINT Report – Fictional Profile: “Léa V.”                
-| [profiling_case_03.md](EN/profiling_case_03.md)   | Analysis of Redirection to OnlyFans Content               
-| [profiling_case_04.md](EN/profiling_case_04.md)   | OSINT Report – Anonymous Client (online flower order)     
+| [Real_case_randomized_01.md](EN/Real_case_randomized_01.md) | Locating a Personal Contact in the United States
+| [Real_case_randomized_02.md](EN/Real_case_randomized_02.md) | Multi-identity Consistency Check                
+| [profiling_case_01.md](EN/profiling_case_01.md)   | OSINT Report – Fictional Profile: “Léa V.”                
+| [profiling_case_02.md](EN/profiling_case_02.md)   | Analysis of Redirection to OnlyFans Content               
+| [profiling_case_03.md](EN/profiling_case_03.md)   | Anonymous job applicant                                   
+| [profiling_case_04.md](EN/profiling_case_04.md)   | OSINT Report – Anonymous Client (online flower order)  
 
 ---
 ## What I Do
