@@ -1,63 +1,102 @@
-# 🕵️ OSINT Profiling Toolkit
+# OSINT Profiling Toolkit
 
-Ce dépôt contient mes outils, modèles et études de cas pour la réalisation d'enquêtes OSINT (Open Source Intelligence) dans un cadre légal, éthique et professionnel.
-
----
-
-## 📌 Objectif
-
-Créer une base de travail solide pour :
-- Conduire des **missions de profiling numérique**
-- Structurer une **démarche professionnelle d’analyse**
-- Produire des **rapports clairs, exploitables et sans interaction avec la cible**
-
-Ce projet a été lancé dans un cadre **personnel et exploratoire**, avec l'objectif de proposer à terme des services OSINT freelance sous pseudonyme.
+This repository contains my tools, templates, and case studies for conducting Open Source Intelligence (OSINT) investigations within a legal, ethical, and professional framework.
 
 ---
 
-## 🧰 Contenu du dépôt
+## Purpose
 
-| Dossier / fichier | Description |
-|------------------|-------------|
-| `checklist_osint.md` | Checklist opérationnelle pour chaque mission |
-| `tools.md` | Répertoire d’outils OSINT testés, triés par usage |
-| `rapport_template.md` | Modèle de rapport réutilisable (client / fictif) |
-| `profiling_cas_fictif_01.md` | Étude de cas complète sur un faux profil |
-| `scripts/` | Scripts Python simples (dorks, usernames, image…) |
-| `captures/` | Exemples d’illustrations floutées ou fictives |
+Build a solid foundation to:
+
+- Conduct digital identity profiling missions
+- Structure a professional OSINT workflow
+- Produce clear, actionable reports without interacting with the target
 
 ---
 
-## ⚖️ Éthique et cadre légal
+## Repository Content (Real Cases anonymised)
 
-Toutes les recherches menées via cette méthodologie :
-- Se basent uniquement sur des **informations accessibles publiquement**
-- **N’impliquent aucune intrusion**, piratage ou ingénierie sociale
-- Ne sont pas utilisées pour nuire ou harceler une cible
-- Respectent la législation française et européenne (RGPD, code pénal, etc.)
+| Repo EN – File Name                               | Case Title                                               
+|---------------------------------------------------|-----------------------------------------------------------
+| [Real_case_randomized_01.md](EN/Real_case_randomized_01.md) | Locating a Personal Contact in the United States          
+| [profiling_case_01.md](EN/profiling_case_01.md)   | Locating a Personal Contact in the United States          
+| [profiling_case_02.md](EN/profiling_case_02.md)   | OSINT Report – Fictional Profile: “Léa V.”                
+| [profiling_case_03.md](EN/profiling_case_03.md)   | Analysis of Redirection to OnlyFans Content               
+| [profiling_case_04.md](EN/profiling_case_04.md)   | OSINT Report – Anonymous Client (online flower order)     
 
-> 🟡 Ce projet est pédagogique et exploratoire.  
-> Aucun rapport dans ce dépôt n’a été généré à la demande d’un client réel.
+---
+## What I Do
+
+As an OSINT freelancer, I help individuals and organizations investigate:
+ - Suspicious or anonymous profiles
+ - Crypto frauds, marketplace scams, e-commerce theft
+ - Romance scams, catfishing, crypto frauds
+ - Online reputation issues and impersonations
+ - China-based vendors and platform legitimacy
+ - Identity leaks and unauthorized use of content (including NSFW)
+
+All services are delivered remotely, ethically, and based only on open-source/public data. No interaction with targets, no hacking, no intrusion.
+---
+### Quick Profile Scan
+
+A short investigation of a single identity or account (e.g. dating app, Telegram, Instagram). Includes footprint analysis, behavioral check, username trace, and a PDF summary.
+
+### Full Digital Audit
+
+Comprehensive scan of 1 to 3 linked profiles or identities across platforms. Detect fake activity, hidden connections, trace inconsistencies, and review digital hygiene.
+
+### Advanced Profiling & Network Mapping
+
+In-depth OSINT investigation with connection analysis, timeline reconstruction, cross-platform alias tracing, and a visual “Maltego-style” relationship graph.
+
+### Monthly Monitoring
+
+Passive watch on a person, alias or brand. Monthly report includes PimEyes monitoring, new leak alerts, domain mentions, username/email tracking, and threat intelligence.
+
+### China & E-commerce Verification
+
+Specialized research for B2B/B2C frauds linked to Asia (e.g. AliExpress, DHGate, WeChat vendors).
+Includes domain tracing, Chinese business registry search (QCC, Tianyancha), seller verification, hosting & ICP data, product chain and scam signal analysis.
+
+### Marketplace Scam Check
+
+OSINT scan on a seller profile (Facebook Marketplace, Vinted, LeBonCoin, Etsy...).
+Detect image reuse, feedback manipulation, suspicious patterns, and delivery risks.
+
+### 🔞 Content Leak & Impersonation Check (NSFW-friendly)
+
+Service for OnlyFans/NSFW creators: scan for reposts, fake accounts, stolen content, and leaks on indexing sites, forums, or dark web mirrors. Delivered as an anonymized PDF.
+
+### Urgent Micro Check
+
+A fast, express scan of one identity or case — ideal if you’re unsure about someone and want a quick, ethical read before acting.
 
 ---
 
-## 🔭 Évolutions possibles
+## Ethics & Legal Notice
 
-- Ajouter d'autres cas fictifs (arnaque, usurpation, réputation)
-- Automatiser certaines étapes (Dorks, recherche images, pseudonymes)
-- Créer une interface Notion ou PDF propre à livrer
-- Rendre le dépôt public sous un alias professionnel dédié
+All investigations in this repository:
+
+- Are based only on publicly available information
+- Do not involve intrusion, hacking, or social engineering
+- Are not intended to harm, harass, or expose any target
+- Respect French and EU laws (GDPR, Penal Code, etc.)
+  
+---
+
+## Reports & Language Options
+
+- Reports delivered in English or French
+- Format: structured PDF with optional annexes
+- Sources include EU, US, and Chinese platforms
 
 ---
 
-## 📬 Contact
+## Contact
 
-Projet porté par un analyste freelance OSINT (profil technique : dev/QA reconverti), actuellement en test privé.
+Project maintained by a freelance OSINT analyst (technical background: former developer/QA).
 
-Une version publique et professionnelle sera proposée sous un nom de marque séparé d’ici fin 2025.
+To request a service or ask a question:  Linkedin Malt
 
-📧 Pour toute question : *[à renseigner plus tard si besoin]*
 
----
-
-> “La meilleure source, c’est celle que tout le monde ignore.” – Anonyme OSINT
+> “The best source is the one everyone overlooks.” – OSINT Anonymous
