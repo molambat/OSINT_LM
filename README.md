@@ -97,7 +97,6 @@ All investigations in this repository:
 
 Project maintained by a freelance OSINT analyst (technical background: former developer/QA).
 
-To request a service or ask a question:  Linkedin Malt
-
+To request a service or ask a question: [LinkedIn](https://www.linkedin.com/in/m-lambat/) · [Malt](https://www.malt.fr/profile/mohammadlambat)
 
 > “The best source is the one everyone overlooks.” – OSINT Anonymous
