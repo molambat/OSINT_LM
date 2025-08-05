@@ -1,5 +1,7 @@
 # OSINT Profiling Toolkit
 
+![teasing gif here]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFyZnBwZnk3YzV2NGQ5dDh4dTZocHRnYTU0dHRnY3hod3gyejZuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ybuKc5xTF2gC5na/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGxxYWhmYjl4aHB2bmkxOTFscHByNDhzcmdycnc1NDNpajZ4djNrdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A7Zc53i8U59SHv9CAm/giphy.gif))
+
 This repository contains my tools, templates, and case studies for conducting Open Source Intelligence (OSINT) investigations within a legal, ethical, and professional framework.
 
 ---
